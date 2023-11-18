@@ -125,16 +125,38 @@ p {
   Cards
   ========================================================================== */
 
-/* 
-.ub-cards {
+/* .ub-card-container {
 
 }
 
-.ub-cards-pic {
+.ub-card {
 
 }
 
-.ub-cards-text {
+.ub-card-media {
 
 }
-*/
+
+.ub-card-content {
+
+}
+
+.ub-card-headline {
+
+}
+
+.ub-card-subhead {
+  
+}
+
+.ub-card-text {
+
+}
+
+.ub-card-actions {
+
+}
+
+.ub-card-button {
+
+} */
