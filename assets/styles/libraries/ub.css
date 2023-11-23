@@ -130,6 +130,10 @@ p {
     display: flex;
 }
 
+.gap {
+    gap: 1.25rem;
+}
+
 .centered {
     justify-content: center;
 }
